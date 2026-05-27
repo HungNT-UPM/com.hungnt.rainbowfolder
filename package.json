@@ -1,0 +1,14 @@
+{
+  "name": "com.hungnt.rainbowfolder",
+  "displayName": "com.hungnt.rainbowfolder",
+  "version": "2.4.3",
+  "unity": "2022.3",
+  "description": "Borodar Rainbow Folders plugin (bundle version matches embedded RainbowFolders 2.4.1 — see QuickStart/pdf ref in DLL). Layout: Runtime/Plugins/Borodar for copying back to Assets/Plugins/Borodar.",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "HungNT",
+    "url": "https://github.com/HungNT-UPM"
+  },
+  "license": "See plugin NOTICES.txt and Asset Store licence"
+}
